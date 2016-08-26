@@ -1,0 +1,175 @@
+body{
+    background-image: url("sahak1.jpg");
+    text-align: center;    
+	}
+nav	{
+	float: left;
+	z-index: auto;
+	position: fixed;
+	left: 0;
+	top: 70px;
+    background-color: rgba(53,53,53,0.7);
+	width: 350px;
+	height:175px;	
+    border-top-right-radius: 40px;
+	border-bottom-right-radius: 40px;
+    padding:10px;	
+	}
+nav a{
+	text-decoration: none;
+	color: #FFFFB8;
+	font-family: Arial;
+	font-size: 20px;
+	padding: 10px;
+	}
+nav a:hover{
+	color: #FFA99E;
+	}
+hr	{
+	border-color:#FFA99E; 
+	}
+main	{
+    background-color: rgba(255,169,158,0.7);
+	border: 2px solid #FFFFB8;
+	border-radius: 20px;
+	height: 200px;
+	width: 500px;
+	}
+main span{
+	height: 200px;
+	width: 400px;	
+	}
+main img{
+	position: relative;
+    left: 400px;
+    z-index: 5;
+	height: 250px;
+	width: 300px;
+	border-top-left-radius: 40px;
+	border-bottom-left-radius: 40px;
+	}
+#countryDiv{
+	background-color: rgba(255,255,150, 0.9);
+	
+	}
+span{
+	display: inline-block;
+	margin-bottom: 20px;	
+	}
+.countries{
+	text-decoration: none;
+	font-family: Comic Sans Ms;
+	color: #FFA99E;
+	height: 160px;
+	width: 400px;
+	}
+a:hover{
+	color: #444;
+	}
+h1	{
+	background-image: url("stars.gif");
+	font-family: Arial;
+	color:#FFA99E;
+	}
+h2	{
+	font-family: Forte;
+	color: #FFA99E;
+	}
+p	{
+	font-family: Comic Sans Ms;
+	color: #FFFFB8;
+	margin-left: 70px;
+	}
+img	{
+	height: 250px;
+	width: 250px;
+	float: center;
+	margin: 10%;
+	border: 1px solid #333;	
+	border-radius: 20px;
+	}
+#hero{
+	background-image: url("heroes.gif");	
+	}
+#aronyan{
+	background-image: url("Aronyan.jpg");
+	height: 400px;
+	Width: 600px;
+	text-align: right;
+	border-radius: 20px;
+	}
+#gates{
+	background-image: url("gates.jpg");
+	height: 400px;
+	Width: 600px;
+	text-align: right;
+	border-radius: 20px;
+	}
+#jobs{
+	background-image: url("jobs.jpg");
+	height: 300px;
+	Width: 600px;
+	text-align: right;
+	border-radius: 20px;
+	}
+.heroes{
+	text-decoration: none;
+	color: #FFA99E;
+	}
+#foot{
+	height:360px;
+	margin: 10px;
+	background-color: blue;
+	background-repeat: no-repeat;
+	border-radius: 20px;
+	}
+label	{
+	font-family: Forte;
+	font-size:17px;
+	color: #000;
+	}
+#footSpan{
+	margin-top: 20px;
+	}
+input	{
+	width: 600px;
+	height: 30px;
+	border-radius: 20px;
+	background-color: #FFFFB8;
+	}
+textarea{
+	width: 600px;
+	height: 100px;
+	border-radius: 20px;
+	background-color: #FFA99E;
+	}
+button{
+	width: 600px;
+	height: 40px;
+	background-image: url("image/stars.gif");
+	border: none;
+	color: #FFFFB8;
+	border-radius: 20px;
+	font-family: Forte;
+	font-size:17px;
+	}
+#about{
+	align: center;
+	width: 1300px;
+}
+#img{
+	width: 300px;
+	height: 150px;
+}
+#ing{
+	width: 275px;
+	height: 275px;
+}
+#ibj{
+	width: 620px;
+	height: 350px;
+}
+#ivj{
+	width: 360px;
+	height: 240px;
+}
